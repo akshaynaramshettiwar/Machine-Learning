@@ -1,7 +1,7 @@
 
 # These Project consist of END to END impletion of Movie Recommendation system.
 
-## All the below steps are included in jupyter notebokk
+## All the below steps are included in jupyter notebook
 1) Data cleaning 
 2) EDA
 3) Text Processing 
