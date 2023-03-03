@@ -9,10 +9,17 @@ organization in the near future.This prediction can help the HR department take 
 
 # Python file consist of below steps
 Step 1: Importing Data
+
 Step 2 : Inspecting Dataframe
+
 Step 3: Data Preparation
+
 step 4: Dummy creation
+
 Step 5: Test Train Split
+
 Step 6: Feature Scaling
+
 Step 7 : Model Building
+
 STEP 8 : Feature Selection Using RFE
