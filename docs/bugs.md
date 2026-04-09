@@ -10,8 +10,8 @@
 
 | ID | Type | Severity | Cycle | Summary | Reporter | Created | Status |
 |----|------|----------|-------|---------|----------|---------|--------|
-| BUG-4 | Bug | Medium | Cycle-2 | Login timeout on slow networks | DEV | 2026-04-08 | Open |
-| INC-3 | Incident | P1 | Cycle-2 | API gateway 502 errors in prod | OPS | 2026-04-08 | Open |
+| BUG-4 | Bug | Medium | Cycle-1 | Login timeout on slow networks | DEV | 2026-04-08 | Open |
+| INC-3 | Incident | P1 | Cycle-1 | API gateway 502 errors in prod | OPS | 2026-04-08 | Open |
 
 ---
 
