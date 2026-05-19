@@ -10,8 +10,8 @@
 
 | ID | Type | Severity | Cycle | Summary | Reporter | Created | Status |
 |----|------|----------|-------|---------|----------|---------|--------|
-| BUG-4 | Bug | Medium | Cycle-1 | Login timeout on slow networks | DEV | 2026-04-08 | Open |
-| INC-3 | Incident | P1 | Cycle-1 | API gateway 502 errors in prod | OPS | 2026-04-08 | Open |
+| BUG-4 | Bug | Medium | Cycle-1 | Login timeout on slow networks | DEV | 2026-05-17 | Open |
+| INC-3 | Incident | P1 | Cycle-1 | API gateway 502 errors in prod | OPS | 2026-05-17 | Open |
 
 ---
 
@@ -19,11 +19,11 @@
 
 | ID | Type | Severity | Cycle | Summary | Reporter | Created | Resolved | Resolution |
 |----|------|----------|-------|---------|----------|---------|----------|------------|
-| BUG-1 | Bug | Low | Cycle-1 | Typo in error message | DEV | 2026-04-07 | 2026-04-07 | Fixed |
-| BUG-2 | Bug | Medium | Cycle-1 | CSS overflow on mobile | DEV | 2026-04-07 | 2026-04-08 | Fixed |
-| BUG-3 | Bug | High | Cycle-1 | Auth token not refreshing | QA | 2026-04-07 | 2026-04-08 | Fixed |
-| INC-1 | Incident | P2 | Cycle-1 | Memory spike during deploy | OPS | 2026-04-07 | 2026-04-07 | Mitigated |
-| INC-2 | Incident | P1 | Cycle-1 | Database connection pool exhausted | OPS | 2026-04-07 | 2026-04-08 | Root cause fixed |
+| BUG-1 | Bug | Low | Cycle-1 | Typo in error message | DEV | 2026-05-16 | 2026-05-17 | Fixed |
+| BUG-2 | Bug | Medium | Cycle-1 | CSS overflow on mobile | DEV | 2026-05-16 | 2026-05-17 | Fixed |
+| BUG-3 | Bug | High | Cycle-1 | Auth token not refreshing | QA | 2026-05-16 | 2026-05-17 | Fixed |
+| INC-1 | Incident | P2 | Cycle-1 | Memory spike during deploy | OPS | 2026-05-16 | 2026-05-17 | Mitigated |
+| INC-2 | Incident | P1 | Cycle-1 | Database connection pool exhausted | OPS | 2026-05-16 | 2026-05-17 | Root cause fixed |
 
 ---
 
